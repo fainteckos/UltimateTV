@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="(UK) United Kingdom",Animal Planet | SD (UK)
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12935.ts
-#EXTINF:-1 group-title="(UK) United Kingdom",Boomerang | SD (UK)
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12033.ts
 #EXTINF:-1 group-title="(UK) United Kingdom",Cartoon Network | SD (UK)
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12032.ts
 #EXTINF:-1 group-title="(UK) United Kingdom",Cartoonito | SD (UK)
@@ -13,42 +11,12 @@ http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1066.ts
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1106.ts
 #EXTINF:-1 group-title="(UK) United Kingdom",Disney Xd | SD (UK)
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1105.ts
-#EXTINF:-1 group-title="(UK) United Kingdom",Documentaries | SD (UK)
-http://server.internext.tv:8000/live/asdasd1/asdasd1/10752.ts
 #EXTINF:-1 group-title="(UK) United Kingdom",Espn | HD (UK)
 http://server.internext.tv:8000/live/asdasd1/asdasd1/8570.ts
 #EXTINF:-1 group-title="(UK) United Kingdom",Food Network | SD (UK)
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12881.ts
-http://server.internext.tv:8000/live/asdasd1/asdasd1/3339.ts
 #EXTINF:-1 group-title="(UK) United Kingdom",Nick Junior | SD (UK)
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12025.ts
 #EXTINF:-1 group-title="(UK) United Kingdom",Nickelodeon | SD (UK)
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12024.ts
-#EXTINF:-1 group-title="(UK) United Kingdom",Racing | HD (UK)
-http://server.internext.tv:8000/live/asdasd1/asdasd1/7775.ts
-#EXTINF:-1 group-title="(US) United States",Afn Movie | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25618.ts
-#EXTINF:-1 group-title="(US) United States",MSNBC | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25617.ts
-#EXTINF:-1 group-title="(US) United States",ABC | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25616.ts
-#EXTINF:-1 group-title="(US) United States",Afn Prime Pacific | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25615.ts
-#EXTINF:-1 group-title="(US) United States",Afn Spectrum | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25613.ts
-#EXTINF:-1 group-title="(US) United States",Afn Sports 1 | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25612.ts
-#EXTINF:-1 group-title="(US) United States",Afn Sports 2 | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25611.ts
-#EXTINF:-1 group-title="(US) United States",AMC | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25619.ts
-#EXTINF:-1 group-title="(US) United States",Bein Sport | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25662.ts
-#EXTINF:-1 group-title="(US) United States",Bet | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25661.ts
-#EXTINF:-1 group-title="(US) United States",Big Ten | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25660.ts
-#EXTINF:-1 group-title="(US) United States",Bravo | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25659.ts
-#EXTINF:-1 group-title="(US) United States",Cbs | SD (US)
-http://live.darkside-iptv.com:8080/live/Tahizen1/ku0kPnKSya/25658.ts
+
