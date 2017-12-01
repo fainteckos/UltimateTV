@@ -109,3 +109,5 @@ http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1019.ts
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12033.ts
 #EXTINF:-1,Cartoon Network + 1
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12950.ts
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
