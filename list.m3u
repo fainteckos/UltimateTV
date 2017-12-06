@@ -63,8 +63,6 @@ http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7504.ts
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/7502.ts
 #EXTINF:-1,Sky Sports Main EV Hd
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1029.ts
-#EXTINF:-1,Sky Sports Cricket HD
-http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1027.ts
 #EXTINF:-1,Sky Sports Action HD
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1025.ts
 #EXTINF:-1,Sky Sports Golf HD
@@ -111,3 +109,7 @@ http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12033.ts
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12950.ts
 #EXTINF:-1,Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:-1,CBS News
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+#EXTINF:-1,FOX News
+http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/MED.m3u8
