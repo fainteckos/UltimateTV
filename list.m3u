@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 Animal Planet
+#EXTINF:-1, Animal Planet
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12935.ts
-#EXTINF:-1 Cartoon Network
+#EXTINF:-1, Cartoon Network
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12032.ts
-#EXTINF:-1 Cartoonito
+#EXTINF:-1, Cartoonito
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12545.ts
-#EXTINF:-1 Disney Channel
+#EXTINF:-1, Disney Channel
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1066.ts
-#EXTINF:-1 Disney Junior
+#EXTINF:-1, Disney Junior
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1106.ts
-#EXTINF:-1 Disney Xd
+#EXTINF:-1, Disney Xd
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1105.ts
-#EXTINF:-1 Espn
+#EXTINF:-1, Espn
 http://server.internext.tv:8000/live/asdasd1/asdasd1/8570.ts
-#EXTINF:-1 Food Network
+#EXTINF:-1, Food Network
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12881.ts
-#EXTINF:-1 Nick Junior
+#EXTINF:-1, Nick Junior
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12025.ts
-#EXTINF:-1 Nickelodeon
+#EXTINF:-1, Nickelodeon
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/12024.ts
 #EXTINF:-1,Sky Movies Action&Adventure
 http://mg.alhamracctv.com:25461/live/magic_box/xxxxBBX/1218.ts
