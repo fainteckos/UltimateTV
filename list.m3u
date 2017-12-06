@@ -5,10 +5,12 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1,CBS News
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
+#EXTINF:-1,CNN
+http://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/master.m3u8
 #EXTINF:-1,C-Span
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on 
 #EXTINF:-1,FOX News
-http://fnctve-i.akamaihd.net/hls/live/200669/fnctve/MED.m3u8
+http://fnurtmp-f.akamaihd.net/i/02LIVE_1@81834/master.m3u8
 #EXTINF:-1,Off The Air
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
 #EXTINF:-1,Toonami
