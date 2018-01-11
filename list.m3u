@@ -1,23 +1,31 @@
 #EXTM3U
-#EXTINF:-1,ABC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/ABCNewsLogo.png",ABC
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
-#EXTINF:-1,Adult Swim
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/AdultSwim.svg/250px-AdultSwim.svg.png",Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
-#EXTINF:-1,CBS News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/120px-CBC_Logo_1992-Present.svg.png",CBC
+http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CBS_News_logo.svg/250px-CBS_News_logo.svg.png",CBS News
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
-#EXTINF:-1,CNN
+#EXTINF:-1 htvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN
 http://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/master.m3u8
-#EXTINF:-1,C-Span
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/3251.jpg",C-Span
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1,FOX News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png",FOX News
 http://fnurtmp-f.akamaihd.net/i/02LIVE_1@81834/master.m3u8
-#EXTINF:-1,NASA
+#EXTINF:-1 tvg-logo="http://www.televizyondizisi.com/wp-content/uploads/2015/10/TRTWORLDHABER.png",TRT World
+efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/160px-NASA_logo.svg.png",NASA
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
-#EXTINF:-1,Off The Air
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Off_the_Air_poster.jpeg",Off The Air
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1,Red Bull
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/RedBullEnergyDrink.svg/200px-RedBullEnergyDrink.svg.png",Red Bull
 https://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1,Rick and Morty
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Rick_and_Morty_logo.png/250px-Rick_and_Morty_logo.png",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
-#EXTINF:-1,Toonami
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Toonami_logo_2016.png",Toonami
 https://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png",QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H00wiqw.jpg",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
