@@ -11,8 +11,6 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_360.m3u8
 http://cnn-i.akamaihd.net/hls/live/253954/dotcomlive_2/master.m3u8
 #EXTINF:-1 tvg-logo="http://channelpear.com/images/media/3251.jpg",C-Span
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://ichef.bbci.co.uk/corporate2/images/width/live/p0/0k/m6/p00km646.jpg/624",BBC
-https://edge-1192-ch-gv.filmon.com/live/2798.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5a9e5376eb65d92c42e0621848f2c1d96b046555c83815234551e9de5b2199992aa923954cc012241e3364b57525447a866ee7475686bc494742f67a0219bc35ed3b95a14c3782b2c9229efebe4e002ce360c599de09d53496d9cf2d1885f1fe7bcf5809dda5b9f133c7a04fe5eb255498ad7890ffc841992afa2f776e384a4e59c62e06081d38c75472aab05d84f3d0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png",FOX News
 http://fnurtmp-f.akamaihd.net/i/02LIVE_1@81834/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/160px-NASA_logo.svg.png",NASA
